@@ -1,7 +1,5 @@
 Primeiro arquivo do GIT.
-
+ssssss
 
 Alteração no Readme para descrever melhor meu sistema.
-
-
-22-08 Procedendo para criação do modulo de segurança
+ nova linha para teste de diff
